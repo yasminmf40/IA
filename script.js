@@ -54,6 +54,7 @@ const perguntas = [
             {
                 texto: "Não",
                 afirmacao: "Acredito que vamos conseuir similar a mão de obra com a IA"
+            }
         ]
     },
     {
